@@ -5,10 +5,10 @@ This is my first simple os developed on linux.
 It just performs shell feature in which "END" command works only.
 
 if you want test:
-<pre><code>
-$ make clean; make
+<pre><code>$ make clean; make
 $ qemu-system-i386 -boot a -fda kernel_img #boot with floppy disk
 </code></pre>
+
 
 To study and make this, I did refer to a lot of resources below:
 
