@@ -13,7 +13,7 @@ $ qemu-system-i386 -boot a -fda kernel_img #boot with floppy disk
 To study and make this, I did refer to a lot of resources below:
 
 - Writing a Simple Oerating System from Scratch
-    --> https://www.cs.bham.ac.uk/~exr/lectures/opsys/10.../os-dev.pdf
+    --> https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 - GitHub - cfenollosa/os-tutorial: How to create an OS from scratch
     --> https://github.com/cfenollosa/os-tutorial
 - OSDev Wiki
